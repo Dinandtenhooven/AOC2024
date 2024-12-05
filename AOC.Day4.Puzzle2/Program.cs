@@ -27,7 +27,6 @@ var version3 = grid.CountStamps(new GridStamp(
     new CharCell(0, 2, 'M')
 ));
 
-
 var version4 = grid.CountStamps(new GridStamp(
     new CharCell(0, 0, 'M'),
     new CharCell(2, 0, 'S'),
